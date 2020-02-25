@@ -2,25 +2,25 @@
 <MallKioskDemoSettings>
   <GenericRecommendations>
     <!--  URLS when a single male person is in front of the camera. -->
-    <Recommendation Id="MaleYoungerThan12" Url="http://srpidemo.azurewebsites.net/toystorem.aspx"/>
-    <Recommendation Id="MaleYoungerThan18" Url="http://srpidemo.azurewebsites.net/toystorem.aspx"/>
-    <Recommendation Id="MaleYoungerThan25" Url="http://srpidemo.azurewebsites.net/tools.aspx"/>
-    <Recommendation Id="MaleYoungerThan32" Url="http://srpidemo.azurewebsites.net/tools.aspx"/>
-    <Recommendation Id="MaleYoungerThan40" Url="http://srpidemo.azurewebsites.net/tools.aspx"/>
-    <Recommendation Id="MaleYoungerThan50" Url="http://srpidemo.azurewebsites.net/bbq.aspx"/>
-    <Recommendation Id="MaleYoungerThan55" Url="http://srpidemo.azurewebsites.net/bbq.aspx"/>
-    <Recommendation Id="MaleYoungerThan60" Url="http://srpidemo.azurewebsites.net/bbq.aspx"/>
-    <Recommendation Id="MaleOlder" Url="http://srpidemo.azurewebsites.net/bbq.aspx"/>
+    <Recommendation Id="MaleYoungerThan12" Url="https://www.popular.com/mi-banco/movil/"/>
+    <Recommendation Id="MaleYoungerThan18" Url="https://www.popular.com/mi-banco/movil/"/>
+    <Recommendation Id="MaleYoungerThan25" Url="https://www.popular.com/auto/starting-connection"/>
+    <Recommendation Id="MaleYoungerThan32" Url="https://www.popular.com/hipotecas/compra-rehabilita/"/>
+    <Recommendation Id="MaleYoungerThan40" Url="https://www.popular.com/hipotecas/compra-rehabilita/"/>
+    <Recommendation Id="MaleYoungerThan50" Url="https://www.popular.com/prestamos/prestamos-personales/"/>
+    <Recommendation Id="MaleYoungerThan55" Url="https://www.popular.com/prestamos/prestamos-personales/"/>
+    <Recommendation Id="MaleYoungerThan60" Url="https://www.popular.com/prestamos/prestamos-personales/"/>
+    <Recommendation Id="MaleOlder" Url="https://www.popular.com/seguros/vida/"/>
 
     <!--  URLS when a single female person is in front of the camera. -->
-    <Recommendation Id="FemaleYoungerThan12" Url="http://srpidemo.azurewebsites.net/toystoref.aspx"/>
-    <Recommendation Id="FemaleYoungerThan18" Url="http://srpidemo.azurewebsites.net/spa.aspx"/>
-    <Recommendation Id="FemaleYoungerThan25" Url="http://srpidemo.azurewebsites.net/spa.aspx"/>
-    <Recommendation Id="FemaleYoungerThan32" Url="http://srpidemo.azurewebsites.net/spa.aspx"/>
-    <Recommendation Id="FemaleYoungerThan40" Url="http://srpidemo.azurewebsites.net/spa.aspx"/>
-    <Recommendation Id="FemaleYoungerThan50" Url="http://srpidemo.azurewebsites.net/spa.aspx"/>
-    <Recommendation Id="FemaleYoungerThan60" Url="http://srpidemo.azurewebsites.net/cruise.aspx"/>
-    <Recommendation Id="FemaleOlder" Url="http://srpidemo.azurewebsites.net/cruise.aspx"/>
+    <Recommendation Id="FemaleYoungerThan12" Url="https://www.popular.com/mi-banco/movil/apple-watch/"/>
+    <Recommendation Id="FemaleYoungerThan18" Url="https://www.popular.com/mi-banco/movil/apple-watch/"/>
+    <Recommendation Id="FemaleYoungerThan25" Url="https://www.popular.com/tarjetas/visa-icon"/>
+    <Recommendation Id="FemaleYoungerThan32" Url="https://www.popular.com/cuentas-ahorros/usave/"/>
+    <Recommendation Id="FemaleYoungerThan40" Url="https://www.popular.com/cuentas-ahorros/usave/"/>
+    <Recommendation Id="FemaleYoungerThan50" Url="https://www.popular.com/seguros/viaje/"/>
+    <Recommendation Id="FemaleYoungerThan60" Url="https://www.popular.com/seguros/viaje/"/>
+    <Recommendation Id="FemaleOlder" Url="https://www.popular.com/pago-facil/"/>
 
     <!--  URLS when at least 2 adults are in front of the camera -->
     <Recommendation Id="TwoOrMoreAdults" Url="http://srpidemo.azurewebsites.net/restaurant.aspx">
